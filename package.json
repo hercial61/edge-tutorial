@@ -1,0 +1,11 @@
+{
+  "name": "edge-tutorial",
+  "version": "1.0.0",
+  "description": "a netlify project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hercial vitalis",
+  "license": "ISC"
+}
